@@ -1,0 +1,8 @@
+{
+  "name": "VedaEdit AI - Video Editorial Suite",
+  "description": "A professional-grade video editing suite featuring dual Tamil/Tanglish transcription, AI-powered segment selection, and automatic translation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
